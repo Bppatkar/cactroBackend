@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/Bppatkar/bhanu-cactro-backend.git"
+    "url": "git remote add origin https://github.com/Bppatkar/cactroBackend.git"
   },
   "keywords": [
     "node",
